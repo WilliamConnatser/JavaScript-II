@@ -1,0 +1,20 @@
+{
+  "name": "javascript-ii",
+  "version": "1.0.0",
+  "description": "With some basic JavaScript principles in hand, we can now expand our skills out even further by exploring callback functions, array methods, and closure.  Finish each task in order as the concepts build on one another.",
+  "main": "assignments/array-methods.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamConnatser/JavaScript-II.git"
+  },
+  "author": "William Connatser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WilliamConnatser/JavaScript-II/issues"
+  },
+  "homepage": "https://github.com/WilliamConnatser/JavaScript-II#readme"
+}
