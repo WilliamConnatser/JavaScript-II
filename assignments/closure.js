@@ -2,12 +2,15 @@
 // Write a simple closure of your own creation.  Keep it simple!
 
 function lambdaSlack() {
-  function generalChat() {
-    function web18() {
-      
-    }
+  const message = "New announcement! We are making an announcement to announce an announcement!";
+  console.log(message)
+  function web18() {
+    const web18message = `Did ya'll see that new announcement: ${message}`;
+    console.log(web18message);
   }
+  web18();
 }
+lambdaSlack();
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
